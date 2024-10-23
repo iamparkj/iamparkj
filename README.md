@@ -15,8 +15,7 @@ Working as a tutor in Faculty of Liberal Education, Seoul National University.
 ## 🗣️ Languages
 - Korean (Native)
 - English (Intermediate)
-- Spanish (Elementary)
-- ... and a little German
+- Spanish (Basic)
 
 ## 💿 Tech
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
