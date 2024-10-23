@@ -15,7 +15,7 @@ Working as a tutor at Faculty of Liberal Education, Seoul National University.
 
 ## 🗣️ Languages
 - Korean (Native)
-- English (Fluent)
+- English (Advanced)
 - Spanish (Intermediate)
 
 ## 💿 Tech
