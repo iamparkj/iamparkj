@@ -8,7 +8,7 @@
 - Static Analysis
 
 ## 🖍️ Teaching
-Working as a tutor in Faculty of Liberal Education, Seoul National University.
+Working as a tutor at Faculty of Liberal Education, Seoul National University.
 - 2023 Summer: Basic Computing (Tutor)
 - 2024 Spring: Core Computing (Tutor)
 - 2024 Autumn: Core Computing (Tutor)
