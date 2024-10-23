@@ -1,6 +1,6 @@
 ## 👨‍💻 박준영
 - **PARK**, Junyoung
-- Undergrad., Linguistics, Seoul National University (2023. 3.~)
+- Undergrad., [Linguistics, Seoul National University](linguist.snu.ac.kr) (2023. 3.~)
 - Intern, ROPAS (2024. 8.~)
 
 ## 📚 Interests
