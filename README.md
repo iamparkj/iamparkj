@@ -1,16 +1,16 @@
 ## 👨‍💻 박준영
 - **PARK**, Junyoung
-- Undergrad., [Linguistics, Seoul National University](https://linguist.snu.ac.kr) (Mar 2023 - present)
+- Undergrad, [Linguistics, Seoul National University](https://linguist.snu.ac.kr) (Mar 2023 - present)
 - Intern, ROPAS (Aug 2024 - present)
 
 ## 📚 Interests
 - Static Analysis
 
 ## 🖍️ Teaching
-Working as a tutor at Faculty of Liberal Education, Seoul National University.
 - 2023 Summer: Basic Computing (Tutor)
 - 2024 Spring: Core Computing (Tutor)
 - 2024 Autumn: Core Computing (Tutor)
+- 2025 Spring: Programming Languages (Teaching Assistant)
 
 ## 💿 Tech
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
