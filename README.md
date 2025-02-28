@@ -11,6 +11,7 @@
 - 2024 Spring: Core Computing (Tutor)
 - 2024 Autumn: Core Computing (Tutor)
 - 2025 Spring: [Programming Languages](https://kwangkeunyi.snu.ac.kr/4190.310/25) (TA)
+- 2025 Spring: Basic Computing (Tutor)
 
 ## 💿 Tech
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
