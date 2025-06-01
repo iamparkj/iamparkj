@@ -4,7 +4,10 @@
 - Intern, [ROPAS](https://ropas.snu.ac.kr) (Aug 2024 - present)
 
 ## 📚 Interests
+- Programming Languages
+- Functional Programming
 - Static Analysis
+- Human Factors in Programming Languages
 
 ## 🖍️ Teaching
 - 2023 Summer: Basic Computing (Tutor)
