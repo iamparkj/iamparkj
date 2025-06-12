@@ -23,4 +23,4 @@
 ### Currently Studying
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![ReScript](https://img.shields.io/badge/rescript-E6484F?style=for-the-badge&logo=rescript&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
