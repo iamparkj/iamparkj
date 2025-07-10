@@ -9,7 +9,7 @@
 - Human Factors in Programming Languages
 
 ## 💿 Tech
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomwayz&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ropas-jypark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomwayz&layout=compact&size_weight=0.25&count_weight=0.75&langs_count=8&exclude_repo=ropas-jypark&hide=dune"/></a>
 
 ### Stack
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
