@@ -9,7 +9,7 @@
 - Human Factors in Programming Languages
 
 ## 💿 Tech
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomwayz&layout=compact&size_weight=0.25&count_weight=0.75&langs_count=8&exclude_repo=ropas-jypark&hide=dune"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomwayz&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=ropas-jypark&hide=dune"/></a>
 
 ### Stack
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
@@ -20,5 +20,5 @@
 ### Currently Studying
 ![Rust](https://img.shields.io/badge/Rust-E45928?style=for-the-badge&logo=rust&logoColor=white)
 ![ReScript](https://img.shields.io/badge/rescript-E6484F?style=for-the-badge&logo=rescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
