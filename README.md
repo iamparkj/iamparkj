@@ -18,6 +18,6 @@
 
 ### Currently Studying
 ![Rust](https://img.shields.io/badge/Rust-E45928?style=for-the-badge&logo=rust&logoColor=white)
-![ReScript](https://img.shields.io/badge/rescript-E6484F?style=for-the-badge&logo=rescript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
