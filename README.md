@@ -3,9 +3,9 @@
 - Undergrad, [Linguistics, Seoul National University](https://linguist.snu.ac.kr) (Mar 2023 - present)
 
 ## 📚 Interests
-- Natural Languages & Programming Languages
-- Static Analysis
-- Human Factors in Programming Languages
+- Natural languages and programming languages
+- Human-computer/AI interaction
+- Web development and so on…
 
 ## 💿 Tech
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparkj&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=ropas-jypark&hide=dune"/></a>
