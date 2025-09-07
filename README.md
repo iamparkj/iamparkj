@@ -8,7 +8,7 @@
 - Web development and so on…
 
 ## 💿 Tech
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparkj&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=ropas-jypark&hide=dune"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparkj&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6"/></a>
 
 ### Stack
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
